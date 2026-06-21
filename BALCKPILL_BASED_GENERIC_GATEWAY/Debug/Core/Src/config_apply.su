@@ -1,0 +1,5 @@
+../Core/Src/config_apply.c:11:9:cfg_stage_pending	16	static
+../Core/Src/config_apply.c:27:9:cfg_is_apply_pending	4	static
+../Core/Src/config_apply.c:32:21:cfg_get_pending	4	static
+../Core/Src/config_apply.c:37:13:cfg_get_pending_config_id	4	static
+../Core/Src/config_apply.c:42:6:cfg_clear_pending	8	static

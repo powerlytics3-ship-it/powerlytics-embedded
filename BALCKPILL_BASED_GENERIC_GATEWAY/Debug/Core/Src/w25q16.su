@@ -1,0 +1,13 @@
+../Core/Src/w25q16.c:15:20:cs_low	16	static
+../Core/Src/w25q16.c:18:20:cs_high	16	static
+../Core/Src/w25q16.c:22:13:spi_tx	24	static
+../Core/Src/w25q16.c:25:13:spi_rx	24	static
+../Core/Src/w25q16.c:30:6:w25q_is_busy	24	static
+../Core/Src/w25q16.c:42:6:w25q_wait_ready	24	static
+../Core/Src/w25q16.c:53:13:write_enable	24	static
+../Core/Src/w25q16.c:61:10:w25q_read_jedec_id	24	static
+../Core/Src/w25q16.c:75:6:w25q_init	24	static
+../Core/Src/w25q16.c:89:6:w25q_read	32	static
+../Core/Src/w25q16.c:106:13:page_program	32	static
+../Core/Src/w25q16.c:132:6:w25q_write	32	static
+../Core/Src/w25q16.c:152:6:w25q_erase_sector_4k	24	static

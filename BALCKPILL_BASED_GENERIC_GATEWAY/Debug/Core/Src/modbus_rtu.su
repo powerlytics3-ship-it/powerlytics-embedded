@@ -1,0 +1,12 @@
+../Core/Src/modbus_rtu.c:32:20:dir_tx	8	static
+../Core/Src/modbus_rtu.c:35:20:dir_rx	8	static
+../Core/Src/modbus_rtu.c:40:24:mb_char_time_us	24	static
+../Core/Src/modbus_rtu.c:44:20:mb_delay_char_times	24	static
+../Core/Src/modbus_rtu.c:50:17:mb_crc16	32	static
+../Core/Src/modbus_rtu.c:62:6:ModbusRTU_Init	48	static
+../Core/Src/modbus_rtu.c:90:12:mb_exchange	80	static
+../Core/Src/modbus_rtu.c:167:5:ModbusRTU_ReadHoldingRegs	56	static
+../Core/Src/modbus_rtu.c:205:5:ModbusRTU_ReadInputRegs	56	static
+../Core/Src/modbus_rtu.c:241:5:ModbusRTU_ReadCoils	64	static
+../Core/Src/modbus_rtu.c:279:5:ModbusRTU_ReadDiscreteInputs	64	static
+../Core/Src/modbus_rtu.c:325:6:ModbusRTU_PrintRegs	32	static

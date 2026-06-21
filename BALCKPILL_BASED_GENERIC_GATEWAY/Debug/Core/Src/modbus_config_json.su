@@ -1,0 +1,5 @@
+../Core/Src/modbus_config_json.c:6:16:parity_from_str	16	static
+../Core/Src/modbus_config_json.c:14:16:func_from_str	16	static
+../Core/Src/modbus_config_json.c:22:16:qty_from_bits	24	static
+../Core/Src/modbus_config_json.c:32:13:copy_json_str	24	static
+../Core/Src/modbus_config_json.c:42:6:modbus_cfg_from_json	112	static

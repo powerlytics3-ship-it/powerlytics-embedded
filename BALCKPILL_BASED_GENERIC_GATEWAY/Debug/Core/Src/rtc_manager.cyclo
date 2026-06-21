@@ -1,0 +1,5 @@
+../Core/Src/rtc_manager.c:13:13:enable_backup_domain_access	1
+../Core/Src/rtc_manager.c:18:12:rtc_clock_source_selected	1
+../Core/Src/rtc_manager.c:22:5:rtc_clock_configure_with_fallback	5
+../Core/Src/rtc_manager.c:63:6:rtc_init_with_bkp_once	3
+../Core/Src/rtc_manager.c:84:6:rtc_get_datetime_strings	1

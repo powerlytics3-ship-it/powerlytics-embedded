@@ -1,0 +1,14 @@
+../Core/Src/Untitled-1.c:155:13:print_reset_reason	8
+../Core/Src/Untitled-1.c:177:5:main	4
+../Core/Src/Untitled-1.c:279:6:SystemClock_Config	3
+../Core/Src/Untitled-1.c:307:13:MX_ADC1_Init	3
+../Core/Src/Untitled-1.c:334:13:MX_RTC_Init	2
+../Core/Src/Untitled-1.c:350:13:MX_USART1_UART_Init	2
+../Core/Src/Untitled-1.c:366:13:MX_USART2_UART_Init	2
+../Core/Src/Untitled-1.c:382:13:MX_USART3_UART_Init	2
+../Core/Src/Untitled-1.c:398:13:MX_DMA_Init	1
+../Core/Src/Untitled-1.c:409:13:MX_GPIO_Init	1
+../Core/Src/Untitled-1.c:428:6:HAL_UARTEx_RxEventCallback	1
+../Core/Src/Untitled-1.c:434:6:StartDefaultTask	1
+../Core/Src/Untitled-1.c:444:6:StartTask02	1
+../Core/Src/Untitled-1.c:455:6:Error_Handler	1

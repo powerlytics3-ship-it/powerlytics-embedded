@@ -1,0 +1,9 @@
+../Core/Inc/rs485.h:20:20:rs485_tx	16	static
+../Core/Inc/rs485.h:23:20:rs485_rx	16	static
+../Core/Src/modbus_rtu_master.c:6:13:rs485_settle_delay	16	static,ignoring_inline_asm
+../Core/Src/modbus_rtu_master.c:11:6:mbm_init	24	static
+../Core/Src/modbus_rtu_master.c:26:19:mbm_arm_rx_to_idle	24	static
+../Core/Src/modbus_rtu_master.c:38:6:mbm_on_rx_event	24	static
+../Core/Src/modbus_rtu_master.c:46:26:mbm_tx_frame	32	static
+../Core/Src/modbus_rtu_master.c:62:19:mbm_read_holding_03	56	static
+../Core/Src/modbus_rtu_master.c:118:19:mbm_read_input_04	56	static

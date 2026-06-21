@@ -1,0 +1,10 @@
+../Core/Src/uart2_rx_engine.c:19:24:rb_mask	1
+../Core/Src/uart2_rx_engine.c:21:6:u2rx_init	1
+../Core/Src/uart2_rx_engine.c:28:19:u2rx_start	5
+../Core/Src/uart2_rx_engine.c:42:6:u2rx_on_idle_event	6
+../Core/Src/uart2_rx_engine.c:81:8:u2rx_available	1
+../Core/Src/uart2_rx_engine.c:86:8:u2rx_read	3
+../Core/Src/uart2_rx_engine.c:113:6:u2rx_drop_all	1
+../Core/Src/uart2_rx_engine.c:119:5:u2rx_read_line	13
+../Core/Src/uart2_rx_engine.c:185:5:u2rx_wait_for	9
+../Core/Src/uart2_rx_engine.c:223:5:u2rx_find_and_copy_between	11

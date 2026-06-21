@@ -1,0 +1,6 @@
+../Core/Src/modbus_config_flash.c:15:17:crc32_sw	3
+../Core/Src/modbus_config_flash.c:31:6:modbus_cfg_defaults	2
+../Core/Src/modbus_config_flash.c:52:13:cfg_is_valid	7
+../Core/Src/modbus_config_flash.c:75:6:modbus_cfg_load	3
+../Core/Src/modbus_config_flash.c:91:26:flash_erase_sector	1
+../Core/Src/modbus_config_flash.c:105:6:modbus_cfg_save	9

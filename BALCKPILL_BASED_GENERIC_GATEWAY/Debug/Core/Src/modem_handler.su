@@ -1,0 +1,15 @@
+../Core/Src/modem_handler.c:26:9:modem_at_rx_lock	4	static
+../Core/Src/modem_handler.c:27:9:modem_at_rx_is_active	4	static
+../Core/Src/modem_handler.c:32:6:ModemAT_InitMutex	8	static
+../Core/Src/modem_handler.c:39:6:modem_at_rx_feed	24	static
+../Core/Src/modem_handler.c:53:13:u2_send_cmd	16	static
+../Core/Src/modem_handler.c:63:13:u2_flush_all	8	static
+../Core/Src/modem_handler.c:70:13:trim_crlf	24	static
+../Core/Src/modem_handler.c:85:9:SIM800_SendATCommand2	320	static
+../Core/Src/modem_handler.c:210:13:at_should_flush	16	static
+../Core/Src/modem_handler.c:222:9:SendCommandWithRetry	32	static
+../Core/Src/modem_handler.c:246:9:GPRS_Init	144	static
+../Core/Src/modem_handler.c:266:6:GetIMEI	88	static
+../Core/Src/modem_handler.c:299:6:WaitForNetworkAndBlinkLED	8	static
+../Core/Src/modem_handler.c:312:6:GSM_Network_Diagnostics	8	static
+../Core/Src/modem_handler.c:352:6:Check_Internet_Service	8	static

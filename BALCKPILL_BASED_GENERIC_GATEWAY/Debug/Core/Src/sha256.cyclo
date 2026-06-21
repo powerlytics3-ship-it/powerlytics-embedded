@@ -1,0 +1,12 @@
+../Core/Src/sha256.c:11:17:rotr	1
+../Core/Src/sha256.c:12:17:ch	1
+../Core/Src/sha256.c:13:17:maj	1
+../Core/Src/sha256.c:14:17:e0	1
+../Core/Src/sha256.c:15:17:e1	1
+../Core/Src/sha256.c:16:17:s0	1
+../Core/Src/sha256.c:17:17:s1	1
+../Core/Src/sha256.c:30:13:sha256_transform	4
+../Core/Src/sha256.c:52:13:sha256_init	1
+../Core/Src/sha256.c:62:13:sha256_update	3
+../Core/Src/sha256.c:74:13:sha256_final	3
+../Core/Src/sha256.c:105:6:sha256_hex	2

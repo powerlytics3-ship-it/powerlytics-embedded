@@ -1,0 +1,13 @@
+../Core/Src/w25q16.c:15:20:cs_low	1
+../Core/Src/w25q16.c:18:20:cs_high	1
+../Core/Src/w25q16.c:22:13:spi_tx	1
+../Core/Src/w25q16.c:25:13:spi_rx	1
+../Core/Src/w25q16.c:30:6:w25q_is_busy	1
+../Core/Src/w25q16.c:42:6:w25q_wait_ready	3
+../Core/Src/w25q16.c:53:13:write_enable	1
+../Core/Src/w25q16.c:61:10:w25q_read_jedec_id	1
+../Core/Src/w25q16.c:75:6:w25q_init	3
+../Core/Src/w25q16.c:89:6:w25q_read	2
+../Core/Src/w25q16.c:106:13:page_program	7
+../Core/Src/w25q16.c:132:6:w25q_write	4
+../Core/Src/w25q16.c:152:6:w25q_erase_sector_4k	3

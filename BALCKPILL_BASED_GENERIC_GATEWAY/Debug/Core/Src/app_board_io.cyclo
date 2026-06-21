@@ -1,0 +1,10 @@
+../Core/Src/app_board_io.c:35:13:Relay_GPIO_Init_User	1
+../Core/Src/app_board_io.c:56:6:app_relay_test	2
+../Core/Src/app_board_io.c:68:13:DI_GPIO_Init_User	1
+../Core/Src/app_board_io.c:92:16:di_read	1
+../Core/Src/app_board_io.c:97:6:app_di_read_all	2
+../Core/Src/app_board_io.c:104:13:ADC1_GPIO_Analog_Init_User	1
+../Core/Src/app_board_io.c:132:17:adc1_read_avg	6
+../Core/Src/app_board_io.c:164:17:adc_to_mV	1
+../Core/Src/app_board_io.c:170:6:app_adc_read_all_mv	1
+../Core/Src/app_board_io.c:197:6:app_board_io_init	1

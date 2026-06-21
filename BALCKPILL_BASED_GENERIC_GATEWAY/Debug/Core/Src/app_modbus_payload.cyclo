@@ -1,0 +1,8 @@
+../Core/Src/app_modbus_payload.c:27:12:jb_append	4
+../Core/Src/app_modbus_payload.c:41:6:app_modbus_payload_init	1
+../Core/Src/app_modbus_payload.c:47:6:app_modbus_payload_set_cfg	2
+../Core/Src/app_modbus_payload.c:58:13:json_values_add_di_2	3
+../Core/Src/app_modbus_payload.c:71:13:json_values_add_ai_2_mv	3
+../Core/Src/app_modbus_payload.c:85:26:mb_read_by_func	6
+../Core/Src/app_modbus_payload.c:103:13:json_values_add_mi_1	15
+../Core/Src/app_modbus_payload.c:168:13:app_build_payload_json_once	4
